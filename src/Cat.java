@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.geom.*;
 
 public class Cat {
+	// CHANGES RIGHT HERE GET YOUR CHANGES
 	// drawing constants are private - noone needs to know what we're doing
 	// pick a head dimension
 	private static final int HEAD_DIMENSION = 100;
